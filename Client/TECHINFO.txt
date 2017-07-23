@@ -1,0 +1,3 @@
+Store: https://ilyashandulskiy.github.io/Client/
+
+Server: http://ilyaserver.000webhostapp.com/IlyaClient/
