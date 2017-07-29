@@ -1,1 +1,1 @@
-https://analytics.google.com/analytics/web/?authuser=1#realtime/rt-overview/a101680067w148886041p153858724/%3Ffilter.list%3D2%3D%3DYekaterinburg%3B/
+https://analytics.google.com/analytics/web/?authuser=0#embed/report-home/a101680067w148886041p153858724/
